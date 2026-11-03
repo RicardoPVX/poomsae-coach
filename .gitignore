@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Never commit student videos (privacy)
+*.mp4
+*.mov
+*.avi
+data/raw/
